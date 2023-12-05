@@ -1,0 +1,72 @@
+# Compiled bytecode
+*.class
+
+# Log files
+log/
+*.log
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+mvnw
+mvnw.cmd
+.mvn/
+
+# Gradle
+build/
+.gradle/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Spring Boot
+spring-boot-starter-*/
+!spring-boot-starter-*/src/
+spring-boot-starter/target/
+
+# Application Properties
+application*.yml
+application*.properties
+
+# Test Files
+test-output/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Windows thumbnail database
+Thumbs.db
+
+# macOS Finder directory settings
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
