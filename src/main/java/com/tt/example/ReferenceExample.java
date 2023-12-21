@@ -1,3 +1,5 @@
+package com.tt.example;
+
 public class ReferenceExample {
     public static void main(String[] args) {
         StringBuilder originalReference = new StringBuilder("Hello");

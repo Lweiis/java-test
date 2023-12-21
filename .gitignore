@@ -34,7 +34,7 @@ spring-boot-starter/target/
 application*.yml
 application*.properties
 
-# Test Files
+# com.tt.example.Test Files
 test-output/
 
 # Package Files
